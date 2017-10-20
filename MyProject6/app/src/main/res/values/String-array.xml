@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location">
+        <item>소속을 선택해주세요.</item>
+        <item>제1군 사령부</item>
+        <item>제2작전 사령부</item>
+        <item>제3군 사령부</item>
+    </string-array>
+</resources>
